@@ -52,7 +52,7 @@ def __validate(file_path, type):
     """
     Start validation of files
     """
-    h = {'Content-Type': "{}; charset=utf-8".format(type)}
+    h = {'Content-Type': "{}; charSet=utf-8".format(type)}
     # Open files in binary mode:
     # https://requests.readthedocs.io/en/master/user/advanced/
     d = open(file_path, "rb").read()
