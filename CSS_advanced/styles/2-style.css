@@ -3,9 +3,7 @@ html {
 }
 
 body, a {
-	background: #161616;
-	position: relative;
-	z-index: 10;
+	color: #161616;
 }
 
 .visually-hidden {
@@ -13,7 +11,5 @@ body, a {
 }
 
 .card-category, .section-tagline {
-	background: #D73953;
-	position: relative;
-	z-index: 10;
+	color: #D73953;
 }
