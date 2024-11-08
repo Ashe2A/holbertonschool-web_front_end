@@ -1,0 +1,19 @@
+html {
+	scroll-behavior: smooth;
+}
+
+body, a {
+	background: #161616;
+	position: relative;
+	z-index: 10;
+}
+
+.visually-hidden {
+	display: none;
+}
+
+.card-category, .section-tagline {
+	background: #D73953;
+	position: relative;
+	z-index: 10;
+}
