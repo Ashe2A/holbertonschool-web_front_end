@@ -235,7 +235,7 @@ ul.row {
 	margin: 0;
 }
 
-.card-services a {
+.card-services a:link {
 	display: block;
 	padding: 2rem;
 	background: var(--color-light-grey);
@@ -243,6 +243,6 @@ ul.row {
 
 .card-services a:hover {
 	color: var(--color-white);
-	background-color: var(--color-primary);
+	background: var(--color-primary);
 	text-decoration: none;
 }
