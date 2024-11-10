@@ -218,3 +218,15 @@ ul.row {
 	--section-title-color: var(--color-white);
 	background: var(--color-black);
 }
+
+.footer-adress {
+	color: var(--text-color);
+}
+
+.social-link {
+	display: block;
+}
+
+.social-link svg {
+	color: var(--text-color);
+}
