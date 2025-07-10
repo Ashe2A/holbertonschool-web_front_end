@@ -2,7 +2,7 @@
 @import url("normalize.css");
 
 * {
-    box-sizing: initial;
+    box-sizing: inherit;
 }
 
 html {
